@@ -42,7 +42,7 @@ died_summary <- titanic %>%
 died_summary 
 ```
 
-此題延續上週作業關於鐵達尼號乘客死亡率的[分組摘要](https://rlads2019.github.io/hw6-draft/index.html#q2)。上方的程式碼即是上週分組摘要的答案，儲存於 `died_summary`。你的任務是使用 `ggplot2` 將 `died_summary` 繪製成[此長條圖](#bar-chart):
+此題延續上週作業關於鐵達尼號乘客死亡率的[分組摘要](https://rlads2019.github.io/hw6/index.html#q2)。上方的程式碼即是上週分組摘要的答案，儲存於 `died_summary`。你的任務是使用 `ggplot2` 將 `died_summary` 繪製成[此長條圖](#bar-chart):
 
 ```{r}
 # Write your code here
